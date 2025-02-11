@@ -28,7 +28,7 @@ I'm an **AIML engineering student** who loves exploring the intersection of **te
 ### 📫 Let's Connect:
 - **GitHub**: You're already here, aren't you? 😏
 - **LinkedIn**: www.linkedin.com/in/bhavana-hegde-825686298
-- **Portfolio/Blog**: 
+- **Portfolio/Blog**: https://misshegde.my.canva.site/
 - **E-mail**: bhavanahegde9@gmail.com
 
 _Always open to cool collaborations, deep conversations, and nerdy discussions! ✨_
